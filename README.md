@@ -5,10 +5,9 @@ los fundamentos de PHP, así como también programas y aplicaciones básicas des
 
 Ideas y comentarios son siempre bienvenidos 😄!
 
-🗃️ El respositorio se divide del siguiente modo:
+### El respositorio se divide del siguiente modo:
 
-📂 00_Variables
-
-📂 01_Estructuras
-
-📂 02_Flujos
+📂 00_Introduccion
+  - 01_Variables
+  - 02_Estructuras
+  - 03_Flujos
