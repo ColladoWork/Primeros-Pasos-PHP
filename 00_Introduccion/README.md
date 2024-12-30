@@ -1,5 +1,3 @@
-📌 En este directorio podréis encontrar una introducción a PHP dividida de la siguiente manera:
-
 ## 01_Variables.php
 En este archivo se muestra la declaración de variables, constantes y la concatenación de variables al imprimir mensajes por pantalla.
 
