@@ -9,7 +9,10 @@ Bucles for, while y estructuras if.
 
 ## 04_If_vs_Switch.php
 Implementación y comparativa de ambas estructuras.
+
 📌 En caso de necesitar más información, visitar los siguientes enlaces:
   - [Tipos de datos: String, Integer, Float, Boolean, Array, Classes, NULL](https://www.w3schools.com/php/php_datatypes.asp)
   - [Strings](https://www.w3schools.com/php/php_string.asp)
   - [Arrays](https://www.w3schools.com/php/php_arrays.asp)
+  - [If](https://www.w3schools.com/php/php_if_else.asp)
+  - [Switch](https://www.w3schools.com/php/php_switch.asp)
