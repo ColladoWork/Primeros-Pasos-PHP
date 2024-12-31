@@ -9,6 +9,8 @@ En este archivo se muestra la declaración de variables, constantes y la concate
 
 ## 02_Estructuras.php
 Declaración de listas, diccionarios, conjuntos (sets) y clases. Además de un breve vistazo a la declaración de funciones.
+  
+  📌 [Uso extendido de Arrays](https://www.w3schools.com/php/php_arrays.asp)I
 
 ## 03_Flujos.php
 Bucles for, while y estructuras if.
