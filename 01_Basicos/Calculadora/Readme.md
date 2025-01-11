@@ -1,4 +1,4 @@
-# 🔢 Calcualdora
+# 🔢 Calculadora
 En este ejercicio se plantea la creación de una página web básica que permita realizar operaciones de sumar, restar, multiplicación y división.
 Para ello, será necesitará utilizar un formulario `cabecera.html`, el cual enviará los números y operacion al archivo PHP correspondiente.
 
