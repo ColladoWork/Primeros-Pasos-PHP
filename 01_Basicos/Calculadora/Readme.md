@@ -3,7 +3,7 @@ En este ejercicio se plantea la creación de una página web básica que permita
 Para ello, será necesitará utilizar un formulario `cabecera.html`, el cual enviará los números y operacion al archivo PHP correspondiente.
 
 Este ejercicio tiene como objetivo practicar los conceptos básicos relacionados con la gestión de formularios en páginas web, donde
-el archivo HTML se encarga de recopilar los datos de entrada y el archivo PHP es responsable de procesarlos.
+el archivo HTML se encarga de recopilar los datos de entrada y dar forma a la web, mientras que el archivo PHP es responsable de procesarlos.
 
 ## 💻 Ejecución del código
   1) Ejecutar el terminal desde VisualStudio
