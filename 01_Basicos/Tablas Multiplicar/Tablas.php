@@ -59,7 +59,7 @@
             
     <table class="tabla-roja">
         <?php
-        echo "<br>";
+            echo "<br>";
             for($i = 7; $i <= 10; $i++){
                 echo "<tr> <th colspan='2'> $i </th> </tr>";
 
