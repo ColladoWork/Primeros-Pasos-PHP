@@ -15,3 +15,8 @@ Además, se dispone de un desglose mejor estructurado, desde lo más básico a l
   - 01_Variables
   - 02_Estructuras
   - 03_Flujos
+
+📂 01_Basicos
+  - 01_Calculadora -> Formularios
+  - 02_Cadenas -> Formularios
+  - 03_Tablas Multiplicar -> Introduccion a CSS
