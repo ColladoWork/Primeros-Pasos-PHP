@@ -4,3 +4,7 @@ Cada clase representará un diseño diferente. En esta ocasión, se crearán dos
 
 ### 📌 Observación
 En `Tablas.php`, el ejercicio se presenta de manera simple. Por el contrario, en `Tablas_V2.ph`p se añade mayor complejidad al incluir un diseño personalizado para mostrar las correspondientes tablas de multiplicar. Esto permitirá profundizar en el desarrollo de páginas web mediante la incorporación de estilos definidos con CSS.
+El objetivo final es lograr una representación como la siguiente: 
+
+![1](https://github.com/user-attachments/assets/c3d326ad-2842-46d6-90a1-e915c0e00ad8)
+
