@@ -9,7 +9,6 @@
 
         /* ESTILO GENERAL PARA TODAS LAS TABLAS */
         table{
-            border: 1px solid black;/*Anchura de la linea*/
             border-collapse: collapse;/* Estilo de tabla */
             width: 14%;/* Anchura de la tabla */
         }
@@ -19,7 +18,7 @@
             en todas las tablas sin necesidad de ir una a una duplicando codigo.    
         */
         th, td {
-            border: 1px solid black;
+            border: 1px solid black;/*Anchura de la linea*/
             padding: 10px;/* Espacio entre el contenido de la celda y sus bordes */
             text-align: center;
         }
@@ -54,7 +53,7 @@
                 }
                 
             }
-        ?>
+    ?>
     </table>
             
     <table class="tabla-roja">
