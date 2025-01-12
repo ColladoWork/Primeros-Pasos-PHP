@@ -48,7 +48,7 @@
                 echo "<tr> <th colspan='2'> $i </th> </tr>"; # Cabecera de la tabla
                 # colspan indica cuantas columnas debe abarcar la cabecera en caso de querer una solo para toda la tabla.
 
-                for($j = 1; $j <= 10; $j++){#Creacion de columnas
+                for($j = 1; $j <= 10; $j++){
                     $mult = $i * $j;
                     echo "<tr> <td>$i * $j</td> <td>$mult</td> </tr>";
                 }
