@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tablas Multiplicacion</title>
-    <!-- Declaramos los estilos de las tablas en la cabecera del HTML -->
+    <!-- Declaramos los estilos de las tablas en la cabecera del HTML: CSS -->
     <style>
 
         /* ESTILO GENERAL PARA TODAS LAS TABLAS */
